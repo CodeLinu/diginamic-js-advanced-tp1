@@ -1,0 +1,25 @@
+{
+  "name": "jsa",
+  "version": "1.0.0",
+  "description": "tp javascript avance",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"planet": "node -r esm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodeLinu/diginamic-js-advanced-tp1.git"
+  },
+  "author": "Sakina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeLinu/diginamic-js-advanced-tp1/issues"
+  },
+  "homepage": "https://github.com/CodeLinu/diginamic-js-advanced-tp1#readme"
+}
